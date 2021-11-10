@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3de1fdf-7ec5-4dc1-9c03-da789d984de9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/harjutused/405.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/harjutused/moistatus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/harjutused/vastus.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="20fxqCHIXNaHjucXFpVj7HaRS9C" />
@@ -32,6 +33,11 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\opilane\Desktop\phpv4.0\harjutused" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +50,7 @@
       <workItem from="1636449696928" duration="85000" />
       <workItem from="1636449797598" duration="213000" />
       <workItem from="1636450053853" duration="1606000" />
-      <workItem from="1636526519158" duration="1526000" />
+      <workItem from="1636526519158" duration="4012000" />
     </task>
     <task id="LOCAL−00001" summary="version">
       <created>1636450637295</created>
@@ -52,7 +58,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1636450637295</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="version 1.0">
+      <created>1636528091192</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1636528091192</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,7 +87,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="version" />
-    <option name="LAST_COMMIT_MESSAGE" value="version" />
+    <MESSAGE value="version 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.0" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
